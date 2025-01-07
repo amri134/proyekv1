@@ -1,0 +1,7 @@
+Flask
+google-cloud-aiplatform
+google-cloud-firestore
+google-auth
+google-auth-oauthlib
+gunicorn
+
